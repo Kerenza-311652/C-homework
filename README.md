@@ -33,10 +33,12 @@ Implementing a Simple Electronic Address Book in C
 
    git clone https://github.com/Kerenza-311652/C-homework.git
 
-2. 使用 gcc 编译：
+2. 本地解压缩   
+
+3. 使用 gcc 编译：
 
    gcc main.c contact.c group.c fileio.c -o phonebook.exe
 
-3. 运行程序：
+4. 运行程序：
 
    ./phonebook.exe
